@@ -1,0 +1,44 @@
+{
+  "name": "fis-parser-tmodjs",
+  "description": "A parser for fis to compile tmodjs file.",
+  "version": "0.1.4",
+  "author": {
+    "name": "drakgon",
+    "email": "stardrakgon@gmail.com"
+  },
+  "keywords": [
+    "fis",
+    "tmodjs"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "tmodjs": "1.0.1-rc5"
+  },
+  "_from": "fis-parser-tmodjs@",
+  "devDependencies": {},
+  "scripts": {},
+  "_id": "fis-parser-tmodjs@0.1.4",
+  "dist": {
+    "shasum": "e16d0e7bb987a16b6d8153197a1e6e3409cc8da6",
+    "tarball": "http://registry.npmjs.org/fis-parser-tmodjs/-/fis-parser-tmodjs-0.1.4.tgz"
+  },
+  "_npmVersion": "1.3.14",
+  "_npmUser": {
+    "name": "drakgon",
+    "email": "stardrakgon@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "drakgon",
+      "email": "stardrakgon@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "e16d0e7bb987a16b6d8153197a1e6e3409cc8da6",
+  "_resolved": "https://registry.npmjs.org/fis-parser-tmodjs/-/fis-parser-tmodjs-0.1.4.tgz",
+  "readme": "ERROR: No README data found!"
+}
